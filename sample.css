@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: rgb(197, 220, 224);
+}
+
+.profile{
+    margin-bottom: 24px;
+    border-width: 1px;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 8px;
+    background-image: url(sorahaikei.png);
+}
+
+#yamada{
+    width:150px;
+    background-color: rgb(197, 220, 224);
+    border-radius: 50%;
+    margin: 24px;
+}
+
+#pan{
+    width: 250px;
+}
